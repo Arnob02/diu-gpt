@@ -3,7 +3,7 @@
 import Image from "next/image"; 
 import diuGPTLogo from "./assests/diu_chatbot_logo.png";
 import { useChat } from "ai/react";  
-import { Message } from "ai"; 
+import { Message } from "ai";  
 
 const Home = () => {
     return (

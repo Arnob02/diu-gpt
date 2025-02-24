@@ -72,14 +72,14 @@ input[type="submit"] {
     font-size: 15px;
     border: none;
     color: #fff;
-    background-color: #5a008a; /* Dark Purple */
+    background-color: #5a008a;  
     cursor: pointer;
     border-radius: 5px;
     transition: background 0.3s ease-in-out;
 }
 
 input[type="submit"]:hover {
-    background-color: #7400b8; /* Lighter Purple on Hover */
+    background-color: #7100b3; 
 }
 
 input:focus {

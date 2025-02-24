@@ -9,6 +9,7 @@ import LoadingBubble from "./components/LoadingBubble"
 import PrommpSuggestionsRow from "./components/PrommpSuggestionsRow"
 
 
+
 const Home = () => {
     const { append, isLoading, messages, input, handleInputChange, handleSubmit } = useChat();
 

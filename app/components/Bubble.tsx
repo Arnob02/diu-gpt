@@ -1,8 +1,11 @@
-const Bubble = () => {
-    return (
-        <>
-        </>
-    )
-}
+const Bubble = ({ message }) => {
+    const { content, role } = message;
 
-export default Bubble; 
+    return (
+        <div className={`${role} bubble`}>
+            {content} {/* Ensure message content is displayed */}
+        </div>
+    );
+}; 
+
+export default Bubble;

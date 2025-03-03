@@ -18,7 +18,7 @@ DIU GPT is an AI-powered chatbot designed to answer queries about **Daffodil Int
 - **Database**: **Datastax AstraDB** (for storing context)  
 - **Deployment**: Vercel / Node.js  
 
----
+--- 
 
 ## 🚀 **Getting Started**
 
@@ -46,4 +46,4 @@ ASTRA_DB_COLLECTION=your-collection-name
 
 4️⃣ **Start the Development Server**
 
-npm run dev
+npm run dev 

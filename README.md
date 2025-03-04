@@ -12,7 +12,7 @@ DIU GPT is an AI-powered chatbot designed to answer queries about **Daffodil Int
 
 ---
 
-## 🛠 **Tech Stack**
+## 🛠 **Tech Stack** 
 - **Frontend**: Next.js (React)  
 - **Backend**: OpenAI API, AstraDB  
 - **Database**: **Datastax AstraDB** (for storing context)  

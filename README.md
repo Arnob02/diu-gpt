@@ -2,6 +2,8 @@
 
 DIU GPT is an AI-powered chatbot designed to answer queries about **Daffodil International University (DIU)**.
 
+🔗 **Live Demo**: [https://diu-gpt.vercel.app](https://diu-gpt.vercel.app)
+
 ---
 
 ## 📌 **Features**
